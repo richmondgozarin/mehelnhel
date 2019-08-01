@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Destination Wedding Coordinator
 
-You can use the [editor on GitHub](https://github.com/richmondgozarin/mehelnhel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A Wedding Consultation, is a great way to kick start your planning journey. Through the consultation, we focus on the main question that pops up, how to start planning a wedding. This will give you clarity and guidance and a place to start.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the consultation, we will get to know you as a couple so that we can really understand your vision. It is important to us that we see your unique style and hear your current ideas for your wedding day to maximise the outcome for you. We will break the wedding planning down into different categories and give you tips and advice on each category so that you know how to start planning your wedding. Some examples of the categories that we look at are Wedding Suppliers, Wedding Budget and Wedding Venue, as well as some guidance on the legalities for your wedding day. We can also help clarify any grey areas that you might have.
 
-### Markdown
+During the consultation, we will run you through typical timings and running order for the day which will help you visualise everything from start to finish.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Services
 
-```markdown
-Syntax highlighted code block
+Here are the list of services that you can choose:
 
-# Header 1
-## Header 2
-### Header 3
+- Full Wedding Planning
+- On the day wedding coordination
+- Event Hosting
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
+FB / IG / Messenger
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richmondgozarin/mehelnhel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
